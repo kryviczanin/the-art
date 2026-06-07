@@ -16,14 +16,6 @@ This is my first website, built while I am learning HTML and CSS. It features a 
 └── README.md
 ```
 
-## How To Open
-
-Open `index.html` directly in a browser.
-
-```bash
-open index.html
-```
-
 ## Features
 
 - Responsive layout without page scrolling
@@ -39,5 +31,3 @@ open index.html
 - `assets/css/style.css` contains the layout, responsive rules, and image glow animation.
 - `assets/content/art.png` is the main image.
 - `assets/content/favicon.ico` is the browser tab icon.
-
--
