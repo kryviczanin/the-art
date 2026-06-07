@@ -39,3 +39,5 @@ open index.html
 - `assets/css/style.css` contains the layout, responsive rules, and image glow animation.
 - `assets/content/art.png` is the main image.
 - `assets/content/favicon.ico` is the browser tab icon.
+
+-
